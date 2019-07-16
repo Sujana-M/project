@@ -4,7 +4,6 @@ void main()
 	int divi, divisor, quo, rem;
 	printf("Enter dividend:");
 	scanf("%d", &divi);
-
 	printf("enter divisor" );
 	scanf("%d", &divisor);
 
