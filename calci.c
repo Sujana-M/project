@@ -10,6 +10,6 @@ void main()
 	quo=divi/divisor;
 	rem=divi%divisor;
 
-	printf("Quotient is %d\n" , quo);
-	printf("/nremainder is %d\n" , rem);
+	printf("Quotient of two numbers is %d\n" , quo);
+	printf("/nremainder of the two numbers is %d\n" , rem);
 }
